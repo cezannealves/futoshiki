@@ -29,7 +29,7 @@ Onde <img src="https://render.githubusercontent.com/render/math?math=c"> é a qu
 <img src="https://render.githubusercontent.com/render/math?math=n=d^2">
 é a quantidade de células do tabuleiro.
 
-*implementado em java, testado em single thread em processador mobile de 15w
+*implementado em java, testado em single thread em processador mobile de 2.4Ghz e 15w (i5-6300u)
 
 [Mais detalhes das soluções](relatorio-cezanne.pdf)
 
