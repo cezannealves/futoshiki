@@ -1,4 +1,4 @@
-# futoshiki
+# Futoshiki
 
 ![Futoshiki](board.PNG)
 
